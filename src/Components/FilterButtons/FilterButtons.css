@@ -1,0 +1,5 @@
+    .filter-buttons button.active {
+    background-color: #5c5ceb; /* Highlight the active button */
+    color: white;
+  }
+  
